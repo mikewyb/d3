@@ -1,0 +1,21 @@
+{
+  "name": "d3",
+  "homepage": "https://github.com/mikewyb/d3",
+  "authors": [
+    "mikewyb <yw2303@nyu.edu>"
+  ],
+  "description": "bower d3",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jQuery": "^2.2.3",
+    "d3": "^3.5.16"
+  }
+}
